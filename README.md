@@ -33,7 +33,7 @@ pip install -r requirements.txt
 
 To train the model, use the provided Jupyter Notebook:
 
-1. `Image_Classification_Test_Yoni_Tribber.ipynb`: Contains the training pipeline, including data preprocessing, augmentation, and evaluation.
+1. [`Image_Classification_Test_Yoni_Tribber.ipynb`](Image_Classification_Test_Yoni_Tribber.ipynb): Contains the training pipeline, including data preprocessing, augmentation, and evaluation.
 
 ## Results
 
