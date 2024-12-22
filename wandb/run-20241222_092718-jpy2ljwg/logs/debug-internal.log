@@ -1,0 +1,16 @@
+{"time":"2024-12-22T09:27:18.627319593Z","level":"INFO","msg":"using version","core version":"0.19.1"}
+{"time":"2024-12-22T09:27:18.627347228Z","level":"INFO","msg":"created symlink","path":"/content/wandb/run-20241222_092718-jpy2ljwg/logs/debug-core.log"}
+{"time":"2024-12-22T09:27:18.734161817Z","level":"INFO","msg":"created new stream","id":"jpy2ljwg"}
+{"time":"2024-12-22T09:27:18.734198853Z","level":"INFO","msg":"stream: started","id":"jpy2ljwg"}
+{"time":"2024-12-22T09:27:18.734241018Z","level":"INFO","msg":"writer: Do: started","stream_id":"jpy2ljwg"}
+{"time":"2024-12-22T09:27:18.734398847Z","level":"INFO","msg":"handler: started","stream_id":"jpy2ljwg"}
+{"time":"2024-12-22T09:27:18.734420832Z","level":"INFO","msg":"sender: started","stream_id":"jpy2ljwg"}
+{"time":"2024-12-22T09:27:23.225768207Z","level":"INFO","msg":"Starting system monitor"}
+{"time":"2024-12-22T10:12:08.200150818Z","level":"INFO","msg":"Pausing system monitor"}
+{"time":"2024-12-22T10:15:44.661700579Z","level":"INFO","msg":"Resuming system monitor"}
+{"time":"2024-12-22T10:15:44.666370376Z","level":"INFO","msg":"Pausing system monitor"}
+{"time":"2024-12-22T10:15:48.050299095Z","level":"INFO","msg":"Resuming system monitor"}
+{"time":"2024-12-22T10:15:48.204054951Z","level":"INFO","msg":"Pausing system monitor"}
+{"time":"2024-12-22T10:16:08.982521459Z","level":"INFO","msg":"Resuming system monitor"}
+{"time":"2024-12-22T10:16:10.812846849Z","level":"INFO","msg":"Pausing system monitor"}
+{"time":"2024-12-22T10:19:14.510924405Z","level":"INFO","msg":"Resuming system monitor"}
