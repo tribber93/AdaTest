@@ -43,6 +43,7 @@ After training, the model achieved the following performance:
 |-------|---------------|-----------------|----------|
 | 1     | 3.3200        | 0.7011          | 86.25%   |
 | 2     | 1.6611        | 0.4298          | 91.49%   |
+| 3     | 1.4353        | 0.3563          | 94.26%   |
 
 ### Key Features:
 - Data augmentation.
